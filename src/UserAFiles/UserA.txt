@@ -1,1 +1,2 @@
 I am user A.
+Now, I am in Branch A.
