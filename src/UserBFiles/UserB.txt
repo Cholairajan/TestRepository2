@@ -1,3 +1,4 @@
 I am User B.
 First commit in Branch B.
 Second commit in Branch B.
+Third commit in Branch B.
